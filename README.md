@@ -47,7 +47,7 @@
 
 | Topic                  | Description                                                 | ✅ Done |
 |------------------------|-------------------------------------------------------------|--------|
-| 🌐 **AI&ML**    | Build AI models                         |       |
+| 🌐 **AI&ML**    | Build AI models                         |     ✅  |
 | ⚛️ **Agentic AI**           | Develop AI Agents                            |       |
 | 📱 **RAG** | To implement RAG               |        |
 <!-- | 🔙 [**FastAPI**](./Learning/FastAPI.md)           | To implement rag             |        |
