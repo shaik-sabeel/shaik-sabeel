@@ -43,19 +43,6 @@
 
 ---
 
-## 📚 Currently Learning
-
-| Topic                  | Description                                                 | ✅ Done |
-|------------------------|-------------------------------------------------------------|--------|
-| 🌐 **AI&ML**    | Build AI models                         |     ✅  |
-| ⚛️ **Agentic AI**           | Develop AI Agents                            |       |
-| 📱 **RAG** | To implement RAG               |        |
-<!-- | 🔙 [**FastAPI**](./Learning/FastAPI.md)           | To implement rag             |        |
-| 🧱 **3D Printing**                               | Robotics prototyping and designing custom hardware parts |        | -->
-
-
----
-
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <div align="center">
